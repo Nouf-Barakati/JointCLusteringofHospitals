@@ -7,4 +7,4 @@ This is the code used to conduct the experiemnt to jointly cluster hospitals bas
 All codes are tested using MATLAB R2018a
 
 ### Main Entry: Start_HERE.m
-This file has the main structure and all functions call to conduct the experiemnt conducted to Jointly cluster hospitals based on their admission disease. 
+This file has the main structure that include all the steps and function calls to conduct the experiemnt conducted to Jointly cluster hospitals based on their admission disease. 
