@@ -6,3 +6,4 @@ This is the code used to conduct the experiemnt to jointly cluster hospitals bas
 ### Requirement
 All codes are tested using MATLAB R2018a
 
+# Main Entry: start_HERE.m
